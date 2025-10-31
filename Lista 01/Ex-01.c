@@ -14,6 +14,5 @@ int main()
     res=Media(N1,N2);
     printf("Media dos alunos:%d",res);
 
-
-
+    printf("TESTE");
 }
