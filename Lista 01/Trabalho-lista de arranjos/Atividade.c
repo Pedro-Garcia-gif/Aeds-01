@@ -85,6 +85,7 @@ int main()
         printf("3 - Inserir elemento na lista\n");
         printf("4 - Imprimir os elementos na lista\n");
         printf("5 - Pesquisar elemento na lista\n");
+        printf("6 - Pesquisar elemento na lista atraves do codigo\n");
         scanf("%d", &opcao);
         switch (opcao)
         {
@@ -124,3 +125,4 @@ int main()
     } while (opcao != 0); // fim do while
     return (0);
 }
+
